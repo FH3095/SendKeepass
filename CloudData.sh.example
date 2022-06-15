@@ -1,3 +1,2 @@
 CLOUD_USER=123
 CLOUD_PASS=456
-TARGET_FILE=/home/user/SendKeepass/KeepassFile.kdbx
