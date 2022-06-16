@@ -98,7 +98,7 @@ def executeCommand(command):
 
 argCommand = sys.argv[1] if len(sys.argv) >= 2 else ''
 # For testing
-argCommand='Send'
+#argCommand='Send'
 
 checkConfig()
 executeCommand(argCommand)
